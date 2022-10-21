@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6069],{79553:function(a,b,c){(window.__NEXT_P=window.__NEXT_P||[]).push(["/insight",function(){return c(78300)}])}},function(a){a.O(0,[4009,7721,1160,7344,8764,344,8300,9774,2888,179],function(){var b;return a(a.s=79553)}),_N_E=a.O()}])
